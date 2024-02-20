@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MikeWarakom
 - 👀 I’m interested in (sports, movies, music and coding) = fun
-- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me mikewarakom@gmail.com
+- 📫 How to reach me warakomski.michal@gmail.com
 
 <!---
 MikeWarakom/MikeWarakom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
